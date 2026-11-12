@@ -1,5 +1,5 @@
 ## Interface: 16001
-## Version: 1.0.7
+## Version: 1.1.0
 ## Title: Questie_Panza
 ## Author: Victor Gonzalez
 ## Notes: Disables the annoying quest announce messages from your party members sent by Questie.
