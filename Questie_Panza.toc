@@ -1,9 +1,8 @@
-Ini, TOML
-
 ## Interface: 16001
-## Version: 1.0.1
+## Version: 1.0.2
 ## Title: Questie Panza
-## Author: Fork from Reginald Leonczuk
+## Author: Victor Gonzalez
 ## Notes: Disables the annoying quest announce messages from your party members sent by Questie.
+## IconTexture: Interface\Icons\Spell_Holy_Silence
 
 QuestiePanza.lua
