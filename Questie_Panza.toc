@@ -1,8 +1,8 @@
 ## Interface: 16001
-## Version: 1.0.2
-## Title: Questie Panza
+## Version: 1.0.7
+## Title: Questie_Panza
 ## Author: Victor Gonzalez
 ## Notes: Disables the annoying quest announce messages from your party members sent by Questie.
 ## IconTexture: Interface\Icons\Spell_Holy_Silence
 
-QuestiePanza.lua
+Questie_Panza.lua
