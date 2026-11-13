@@ -1,6 +1,8 @@
 local questiePatterns = {
     "^%{rt1%}%s*Questie%s*:",
     "^%{star%}%s*Questie%s*:",
+	"^%{rt1%}%s*Polestar%s*:",
+    "^%{star%}%s*Polestar%s*:",
     "UI%-RaidTargetingIcon_1.-Questie%s*:",
     "^Questie%s*:",
     "^%[Questie%]",
